@@ -1,8 +1,7 @@
 # Exercise-11-API-Integration-and-Data-Processing
-~~~
-Name : m.johnpall 
-Reg.No : 212224040140
-~~~
+
+Name : S Sesha Raghavan 
+Reg.No : 212224040302
 
 ## Aim
 To create a UiPath workflow that integrates with a REST API (e.g., Weather API), processes the returned JSON response, and writes specific data to a database or a structured format like Excel or CSV.
